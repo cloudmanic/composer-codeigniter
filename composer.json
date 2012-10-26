@@ -1,0 +1,7 @@
+{
+    "name": "cloudmanic/composer-codeigniter",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-0": {"CI": "src/"}
+    }
+}
